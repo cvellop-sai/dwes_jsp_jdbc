@@ -6,3 +6,4 @@ Proyecto de gestión de socios de club de baloncesto
 
 1. Importar la base de datos src/resources/baloncesto.sql.
 2. Generar el archivo pom.xml para la versión de java instalada.
+3. Crear un archivo index inicial para comprobar que funciona inicialmente.
